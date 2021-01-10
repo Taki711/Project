@@ -1,0 +1,101 @@
+{
+    "tables": [
+      {
+        "name": "Sto 1",
+        "capacity": 5,
+        "isAvailable": true,
+        "location": "Bar"
+      },
+      {
+        "name": "Sto 2",
+        "capacity": 5,
+        "isAvailable": true,
+        "location": "Terasa"
+      },
+      {
+        "name": "Sto 3",
+        "capacity": 5,
+        "isAvailable": true,
+        "location": "Bar"
+      },
+      {
+        "name": "Sto 4",
+        "capacity": 6,
+        "isAvailable": true,
+        "location": "Unutra"
+      },
+      {
+        "name": "Sto 5",
+        "capacity": 7,
+        "isAvailable": true,
+        "location": "Terasa"
+      },
+      {
+        "name": "Sto 6",
+        "capacity": 2,
+        "isAvailable": true,
+        "location": "Terasa"
+      },
+      {
+        "name": "Sto 7",
+        "capacity": 2,
+        "isAvailable": true,
+        "location": "Bar"
+      },
+      {
+        "name": "Sto 8",
+        "capacity": 3,
+        "isAvailable": true,
+        "location": "Bar"
+      },
+      {
+        "name": "Sto 9",
+        "capacity": 5,
+        "isAvailable": true,
+        "location": "Terasa"
+      },
+      {
+        "name": "Sto 10",
+        "capacity": 4,
+        "isAvailable": true,
+        "location": "Terasa"
+      },
+      {
+        "name": "Sto 11",
+        "capacity": 3,
+        "isAvailable": true,
+        "location": "Bar"
+      },
+      {
+        "name": "Sto 12",
+        "capacity": 5,
+        "isAvailable": true,
+        "location": "Unutra"
+      },
+      {
+        "name": "Sto 13",
+        "capacity": 2,
+        "isAvailable": true,
+        "location": "Bar"
+      },
+      {
+        "name": "Sto 14",
+        "capacity": 3,
+        "isAvailable": true,
+        "location": "Terasa"
+      },
+      {
+        "name": "Sto 15",
+        "capacity": 7,
+        "isAvailable": true,
+        "location": "Terasa"
+      },
+      {
+        "name": "Sto 16",
+        "capacity": 2,
+        "isAvailable": true,
+        "location": "Unutra"
+      }
+    ]
+  }
+  
