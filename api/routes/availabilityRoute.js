@@ -6,7 +6,7 @@ const Day = require("../models/day").model;
 
 // Parameters:
 // {
-//   "date": String ("Dec 02 2019 06:00")
+//   "date": String ("Dec 02 2020 06:00")
 // }
 
 router.post("/", function(req, res, next) {
